@@ -1,12 +1,28 @@
 {
   "name": "scroll-and-fade-text",
   "private": false,
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "keywords": [
+    "vue",
+    "vue3",
+    "component",
+    "animated",
+    "text"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gsproston/scroll-and-fade-text#readme",
+  "bugs": {
+    "url": "https://github.com/gsproston/scroll-and-fade-text/issues"
+  },
   "type": "module",
   "files": [
     "dist"
   ],
-  "main": "./dist/scroll-and-fade-text.umd.cjs",
+  "browser": "./dist/scroll-and-fade-text.umd.cjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsproston/scroll-and-fade-text"
+  },
   "module": "./dist/scroll-and-fade-text.js",
   "exports": {
     ".": {
