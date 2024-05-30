@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ScrollAndFadeText from "./components/ScrollAndFadeText.vue";
+import ScrollAndFadeText from "../lib";
 </script>
 
 <template>
