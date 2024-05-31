@@ -4,7 +4,10 @@ Vue3 component which repeatedly scrolls and fades text.
 [example.webm](https://github.com/gsproston/scroll-and-fade-text/assets/22685193/783b7bf5-f950-419b-a12d-6d770af03274)
 
 ## Usage 
-1. Install the package with `npm install scroll-and-fade-text`.
+1. Install the package:
+   ```
+   npm install scroll-and-fade-text
+   ```
 1. Import the component:
     ```js
     import ScrollAndFadeText from "scroll-and-fade-text";
