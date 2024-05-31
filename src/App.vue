@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import ScrollAndFadeText from "../lib";
+import ScrollAndFadeText from "../dist/scroll-and-fade-text";
+import "../dist/style.css";
 </script>
 
 <template>
