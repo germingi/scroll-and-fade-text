@@ -37,4 +37,5 @@ To see the component in action without installing it, you can use this repo! Her
 1. Change directory to the newly cloned repo.
 1. Install the required packages with `npm install`.
 1. Build the component with `npm run build`.
+1. Deploy with `npm run dev`.
 1. Check out the component in the browser of your choice! 😎
