@@ -1,5 +1,5 @@
 {
-  "name": "scroll-and-fade-text",
+  "name": "@germingi/scroll-and-fade-text",
   "private": false,
   "version": "1.0.4",
   "keywords": [
@@ -7,15 +7,15 @@
     "vue3",
     "component",
     "animated",
-    "scroll", 
+    "scroll",
     "fade",
     "text",
     "carousel"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gsproston/scroll-and-fade-text#readme",
+  "homepage": "https://github.com/germingi/scroll-and-fade-text#readme",
   "bugs": {
-    "url": "https://github.com/gsproston/scroll-and-fade-text/issues"
+    "url": "https://github.com/germingi/scroll-and-fade-text/issues"
   },
   "type": "module",
   "files": [
@@ -24,7 +24,7 @@
   "browser": "./dist/scroll-and-fade-text.umd.cjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gsproston/scroll-and-fade-text"
+    "url": "https://github.com/germingi/scroll-and-fade-text"
   },
   "module": "./dist/scroll-and-fade-text.js",
   "exports": {
