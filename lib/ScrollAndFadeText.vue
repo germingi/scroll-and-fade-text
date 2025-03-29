@@ -118,7 +118,7 @@ export default {
               duration: totalTimeMs,
               fill: "forwards",
               iterations: 1,
-            }
+            },
           );
           animation.onfinish = this.animateScroll;
         } else {
