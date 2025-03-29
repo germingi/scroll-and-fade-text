@@ -1,7 +1,7 @@
 # scroll-and-fade-text
 Vue3 component which repeatedly scrolls and fades text in a carousel fashion.
 
-[example.webm](https://github.com/gsproston/scroll-and-fade-text/assets/22685193/783b7bf5-f950-419b-a12d-6d770af03274)
+[example.webm](https://github.com/germingi/scroll-and-fade-text/assets/22685193/783b7bf5-f950-419b-a12d-6d770af03274)
 
 ## Usage 
 1. Install the package:
@@ -10,8 +10,8 @@ Vue3 component which repeatedly scrolls and fades text in a carousel fashion.
    ```
 1. Import the component:
     ```js
-    import ScrollAndFadeText from "scroll-and-fade-text";
-    import "scroll-and-fade-text/style.css";
+    import ScrollAndFadeText from "@germingi/scroll-and-fade-text";
+    import "@germingi/scroll-and-fade-text/style.css";
     ```
 1. Use the component:
     ```vue
