@@ -1,5 +1,6 @@
 {
   "name": "@germingi/scroll-and-fade-text",
+  "description": "Vue3 component which repeatedly scrolls and fades text in a carousel fashion.",
   "private": false,
   "version": "1.0.4",
   "keywords": [
