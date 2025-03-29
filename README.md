@@ -1,5 +1,5 @@
 # scroll-and-fade-text
-Vue3 component which repeatedly scrolls and fades text.
+Vue3 component which repeatedly scrolls and fades text in a carousel fashion.
 
 [example.webm](https://github.com/gsproston/scroll-and-fade-text/assets/22685193/783b7bf5-f950-419b-a12d-6d770af03274)
 
