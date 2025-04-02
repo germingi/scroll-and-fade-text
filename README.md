@@ -6,7 +6,7 @@ Vue3 component which repeatedly scrolls and fades text in a carousel fashion.
 ## Usage 
 1. Install the package:
    ```
-   npm install scroll-and-fade-text
+   npm install @germingi/scroll-and-fade-text
    ```
 1. Import the component:
     ```js
